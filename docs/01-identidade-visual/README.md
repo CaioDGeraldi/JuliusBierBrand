@@ -72,6 +72,49 @@ Próxima exploração: testar um emblema central inspirado em entalhes nórdicos
 
 **Status:** direção aprovada para exploração; desenho final ainda não aprovado.
 
+
+## Exploração visual 03 — corvo / Norse sutil
+
+**Direção definida para os próximos estudos**
+- Intensidade nórdica: sutil.
+- Paleta: carvão, grafite, dourado envelhecido e creme.
+- Símbolo: corvo estilizado.
+- Linguagem: tradição cervejeira premium, com referências nórdicas discretas.
+
+### Estudos comparativos gerados
+
+1. **Wordmark com corvo:** nome Julius Bier como foco, corvo como assinatura superior.
+2. **Selo circular:** emblema para adesivos, porta-copos e rótulos.
+3. **Monograma JB:** símbolo compacto para aplicações reduzidas.
+4. **Assinatura com corvo:** integração horizontal do símbolo e lettering.
+5. **Emblema geométrico:** alternativa para embalagens e materiais especiais.
+
+### Recomendação provisória
+
+Combinar o wordmark do estudo 01 como assinatura institucional com o monograma/símbolo do estudo 03 para aplicações pequenas. Reservar o selo circular como assinatura secundária.
+
+Essa recomendação ainda não representa aprovação do desenho. A prancha gerada é uma exploração de direção visual; lettering, proporções, desenho do corvo e ornamentos precisam ser redesenhados e refinados em vetor antes de qualquer uso comercial.
+
+### Paleta exploratória B
+
+| Cor | HEX | Função |
+|---|---|---|
+| Carvão | `#171717` | Fundo principal |
+| Grafite | `#292B2B` | Superfícies secundárias |
+| Dourado envelhecido | `#B38A4A` | Destaques e linhas |
+| Creme | `#E9E1D1` | Texto e contraste |
+
+Os valores são referências digitais iniciais. Validar contraste, CMYK e acabamento com provas físicas.
+
+### Próximos refinamentos
+
+- [ ] Criar três desenhos originais de corvo: perfil geométrico, gravura heráldica e silhueta minimalista.
+- [ ] Testar wordmark serifado robusto versus lettering gótico moderado.
+- [ ] Verificar legibilidade do nome em tamanhos pequenos.
+- [ ] Simplificar o emblema para reprodução monocromática.
+- [ ] Comparar versões sem slogan e com assinatura “Cervejas especiais”.
+- [ ] Selecionar uma rota para redesenho vetorial.
+
 ## Sistema de assinaturas a desenvolver
 
 - [ ] Logotipo principal (wordmark).
