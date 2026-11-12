@@ -41,7 +41,7 @@ A estética pode dialogar com referências históricas de cervejarias, mas não 
 
 ## Arquivos
 
-Os arquivos finais deverão ser armazenados em [assets/logos](../../../../assets/logos/README.md).
+Os arquivos finais deverão ser armazenados em [assets/logos](../../assets/logos/README.md).
 
 ## Pendências
 
