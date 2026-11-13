@@ -115,6 +115,49 @@ Os valores são referências digitais iniciais. Validar contraste, CMYK e acabam
 - [ ] Comparar versões sem slogan e com assinatura “Cervejas especiais”.
 - [ ] Selecionar uma rota para redesenho vetorial.
 
+
+## Exploração visual 04 — direção aprovada pelo cliente
+
+O cliente selecionou duas composições das referências apresentadas:
+- Wordmark principal com ícone de lúpulo acima de “Julius Bier”.
+- Emblema horizontal/geométrico com o nome centralizado, originalmente com corvo no topo e ornamento abaixo da assinatura.
+
+### Decisões desta rodada
+
+- **Corvo removido:** não faz mais parte da identidade.
+- **Símbolo superior do emblema:** substituir por um feixe de cevada estilizado.
+- **Ornamento abaixo de “Cervejas Especiais”:** substituir por um pequeno ícone de lúpulo.
+- **Referência nórdica:** manter apenas em detalhes de moldura e entrelaçamentos discretos.
+- **Wordmark principal:** preservar a composição selecionada pelo cliente, com lúpulo acima do nome.
+
+### Justificativa simbólica
+
+- **Cevada:** matéria-prima, tradição cervejeira e produção.
+- **Lúpulo:** identidade cervejeira, aroma e personalidade dos estilos.
+- **Entrelaçamento ornamental:** referência histórica/nórdica secundária, sem competir com os símbolos ligados à cerveja.
+
+### Composição do emblema
+
+1. Feixe de cevada no topo.
+2. “Julius Bier” centralizado e dominante.
+3. “Cervejas Especiais” abaixo do nome.
+4. Pequeno lúpulo centralizado abaixo da assinatura.
+5. Moldura geométrica com ornamentação entrelaçada discreta.
+
+### Paleta em avaliação
+
+A referência selecionada pelo cliente usa carvão/preto, creme e dourado envelhecido. A paleta verde floresta/creme/dourado também permanece documentada como alternativa institucional. A decisão final deve considerar aplicações reais e impressão.
+
+### Pendências
+
+- [ ] Redesenhar o feixe de cevada como símbolo original.
+- [ ] Refinar o ícone de lúpulo para uso em tamanhos pequenos.
+- [ ] Ajustar proporções entre wordmark, assinatura e símbolos.
+- [ ] Simplificar a moldura para impressão e recorte de adesivos.
+- [ ] Produzir versão vetorial limpa do wordmark e do emblema.
+- [ ] Apresentar as versões em fundo carvão e verde floresta.
+- [ ] Obter aprovação final do cliente.
+
 ## Sistema de assinaturas a desenvolver
 
 - [ ] Logotipo principal (wordmark).
